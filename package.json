@@ -12,7 +12,7 @@
     "@types/keymaster": "1.6.28",
     "@types/webpack": "4.41.10",
     "css-loader": "3.5.0",
-    "electron": "8.2.1",
+    "electron": "9.1.0",
     "electron-debug": "3.0.1",
     "html-webpack-plugin": "4.0.4",
     "style-loader": "1.1.3",
